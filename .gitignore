@@ -1,3 +1,6 @@
+.idea
+out
+
 # Object file
 *.o
 
